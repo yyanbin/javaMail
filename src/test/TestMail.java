@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by 17988 on 2019/1/27.
+ * Created by yanbin on 2019/1/27.
  */
 public class TestMail {
     public static void main(String[] args) {
