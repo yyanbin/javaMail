@@ -17,7 +17,7 @@ import java.io.StringWriter;
 import java.util.Properties;
 
 /**
- * Created by 17988 on 2019/1/23.
+ * Created by yanbin on 2019/1/23.
  */
 public class SendEmailHeadle {
     private  final  static Logger logger = LoggerFactory.getLogger(SendEmailHeadle.class);
